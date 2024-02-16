@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Srinjoy Mukherjee Ray</h1>
 <h3 align="center">A Data Science enthusiast from India</h3>
-<img align="right" alt="coding" width=400 src="![image](https://github.com/srinjoy-9/srinjoy-9/assets/160280058/1aa2a147-a78a-40dc-acc6-d3b1a32da0a8)">
-<h3 align="left">📫 How to reach me **mr.srinjoy@gmail.com** </h3>
+<img align="right" alt="coding" width=200 src="![image](https://github.com/srinjoy-9/srinjoy-9/assets/160280058/1aa2a147-a78a-40dc-acc6-d3b1a32da0a8)">
+<h3 align="left">📫 How to reach me mr.srinjoy@gmail.com </h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/srinjoy9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srinjoy9" height="30" width="40" /></a>
