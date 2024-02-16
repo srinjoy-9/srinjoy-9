@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Srinjoy Mukherjee Ray</h1>
 <h3 align="center">A Data Science enthusiast from India</h3>
-<img align="right" alt="coding" width=400 src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F161921919%2FPortrait-animated-gif&psig=AOvVaw3iX2UuqInEEjwPp2HVDKI-&ust=1708206872338000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNiggMzssIQDFQAAAAAdAAAAABAF">
+<img align="right" alt="coding" width=400 src="![image](https://github.com/srinjoy-9/srinjoy-9/assets/160280058/c8366eb4-ed0a-43f0-b2fa-75301c27d1d0)
+
+">
 - 📫 How to reach me **mr.srinjoy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
